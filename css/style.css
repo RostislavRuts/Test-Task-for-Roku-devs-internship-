@@ -1,0 +1,22 @@
+.screen-1{
+    display: inline-block;
+}
+button, input{
+    margin: 30px 30px;
+    padding: 10px 40px;
+    font-size: 20px;
+}
+#list{
+    list-style: none;
+    float: left;
+}
+.screen-2{
+    display: none;
+}
+.focus{
+    border: 2px solid red;
+}
+img{
+    width: 30px;
+}
+
